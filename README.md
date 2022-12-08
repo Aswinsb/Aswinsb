@@ -8,4 +8,3 @@
 Aswinsb/Aswinsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![gif1](https://user-images.githubusercontent.com/113445679/198218583-5ec37bf5-2626-4f5c-926d-dd762eb56116.gif)
